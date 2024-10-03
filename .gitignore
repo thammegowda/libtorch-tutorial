@@ -1,3 +1,7 @@
+libs/
+!libs/setup.sh
+.ipynb_checkpoints/
+
 # Prerequisites
 *.d
 
