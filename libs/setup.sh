@@ -69,6 +69,9 @@ main() {
     download libtorch-cpu "$cpu_url"
     #download libtorch-$CUDA_VERSION "$cuda_url"
     #download libtorch-$ROCM_VERSION "$rocm_url"
+
+    # link the specific backend that you want to use to "libtorch"
+    ln -s libtorch-cpu libtorch
 }
 
 main "$@"
