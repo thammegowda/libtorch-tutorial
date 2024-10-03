@@ -1,4 +1,5 @@
-libs/
+
+libs/*
 !libs/setup.sh
 .ipynb_checkpoints/
 
