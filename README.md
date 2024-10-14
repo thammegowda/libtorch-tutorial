@@ -1,14 +1,14 @@
 # libtorch-tutorial
 
-This is a collection of exercices to learn libtorch, the C++ backend of Pytorch.
-Most of us learned Pytorch in an interactive notebook like environment. 
+This is a collection of exercises to learn libtorch, the C++ backend of Pytorch.
+Most of us learned Pytorch in an interactive environment like Jupyter notebook. 
 Such interactivity made learning tensor API a breeze! 
-Now, lets do the same in C++. 
+Now, we can do the same with C++. 
 
 
 ## Setup
 
-All notebooks should be run via C++ kernel e.g. https://github.com/jupyter-xeus/xeus-cling 
+All notebooks should be run on C++ kernel e.g. https://github.com/jupyter-xeus/xeus-cling 
 
 `mamba` makes it easier to install necessary dependencies into an isolated environment. 
 
